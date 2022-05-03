@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://baidu.com/running_page/sitemap/sitemap-index.xml
-Host: https://baidu.com
+Sitemap: https://wangweitung.github.io/running_page/sitemap/sitemap-index.xml
+Host: https://wangweitung.github.io
